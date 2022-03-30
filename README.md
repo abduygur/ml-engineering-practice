@@ -1,2 +1,7 @@
 # ml-engineering-practice
-This repo is about the practice in ml-engineering topics
+
+Given I have access to data and/or visualisations of ML results,
+
+where there are anomalous taxi rides,
+
+then the system accurately identifies and labels there 
